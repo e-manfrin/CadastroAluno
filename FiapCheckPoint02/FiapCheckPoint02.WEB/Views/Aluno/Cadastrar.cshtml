@@ -1,0 +1,15 @@
+﻿@model Aluno
+
+@{
+    ViewData["Title"] = "Cadastro de Aluno";
+}
+
+<h1 class="text-center">Cadastro de Aluno</h1>
+
+<mensagem texto="@TempData["msg"]"></mensagem>
+
+<form asp-action="cadastrar">
+    <partial name="_Form" />
+    <botao></botao>
+    <a asp-action="index" class="btn btn-dark">Lista de Alunos</a>
+</form>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FiapCheckPoint02.WEB/1.0.0": {
+        "runtime": {
+          "FiapCheckPoint02.WEB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiapCheckPoint02.WEB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
