@@ -13,9 +13,10 @@ Repositório relativo ao projeto Cadastro de Aluno (CRUD e Frontend na linguagem
 <img width="550" alt="home" src="https://user-images.githubusercontent.com/79612116/195715662-3336bfc0-2c15-49bb-b14d-0a51a1f724b5.jpeg">
 </div>
 
-<div align="center">
+## Linkedin
+
 https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/
-</div>
+
 
 ## Tecnologias: 
 
